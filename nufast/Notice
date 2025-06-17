@@ -1,0 +1,27 @@
+NOTICE
+
+This project, "nufast-py", is a Python reimplementation of the NUfast
+project by Peter Denton, originally written in C++, available at:
+
+    https://github.com/PeterDenton/NUfast
+
+This version is a direct re-coding of the original NUfast, with nearly
+identical logic, structure, and algorithms, adapted line-by-line into Python.
+It is a derivative work under the terms of the original MIT License.
+
+The original NUfast license is included in:
+    third_party/NUfast/LICENSE
+
+All credit for the original physics design, mathematical structure, and
+algorithmic implementation goes to Peter Denton.
+
+---
+
+If this project includes third-party libraries such as `pytoml` in
+vendored form, their licenses are included in the corresponding folders
+(e.g., third_party/pytoml/LICENSE). Those components remain under their
+original licenses (MIT).
+
+---
+
+© 2025 Edwin Somy
