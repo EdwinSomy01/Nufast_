@@ -24,7 +24,6 @@ It is a line-by-line reimplementation of the original [NUfast C++ code by Peter 
 Clone this repo and install in **editable mode**:
 
 ```bash
-git clone https://github.com/yourusername/nufast.git
-cd nufast
-cd path/to/folder/with/pyproject.toml
+git clone https://github.com/EdwinSomy01/Nufast_.git
+cd Nufast_
 pip install -e .
