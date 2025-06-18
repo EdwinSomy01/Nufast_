@@ -150,8 +150,8 @@ def Probability_Matter_LBL(s12sq,  s13sq,  s23sq, delta, Dmsq21,Dmsq31,  L, E,  
     Ptt= 1 - Pet - Pmt 
       
     return {
-        ('e', 'e'): Pee,   ('e', 'mu'): Pem,   ('e', 'tau'): Pet,
-        ('mu', 'e'): Pme,  ('mu', 'mu'): Pmm,  ('mu', 'tau'): Pmt,
-        ('tau', 'e'): Pte, ('tau', 'mu'): Ptm, ('tau', 'tau'): Ptt
+        ('e', 'e'): Pee,   ('e', 'm'): Pem,   ('e', 't'): Pet,
+        ('m', 'e'): Pme,  ('m', 'm'): Pmm,  ('m', 't'): Pmt,
+        ('t', 'e'): Pte, ('t', 'm'): Ptm, ('t', 't'): Ptt
             }
     
