@@ -25,7 +25,7 @@ Clone this repo and install in **editable mode**:
 
 ```bash
 git clone https://github.com/EdwinSomy01/Nufast_.git
-cd Nufast_
+cd Nufast_/nufast
 pip install -e .
 
 
